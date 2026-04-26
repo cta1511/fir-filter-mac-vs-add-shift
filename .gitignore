@@ -1,0 +1,26 @@
+.DS_Store
+**/.DS_Store
+
+# Common generated files
+*.log
+*.tmp
+*.bak
+*.mp4
+
+# EDA / simulation outputs
+*.jou
+*.str
+*.wdb
+*.vcd
+*.fst
+*.lxt
+*.vvp
+*.o
+*.out
+*.sim
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
